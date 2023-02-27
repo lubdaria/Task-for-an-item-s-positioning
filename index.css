@@ -1,5 +1,5 @@
 .note {
-  position: fixed;
+  position: absolute;
   z-index: 1000;
   padding: 5px;
   border: 1px solid black;
@@ -11,7 +11,7 @@
 blockquote {
   background: #f9f9f9;
   border-left: 10px solid #ccc;
-  margin: 0 0 0 100px;
+  margin: 12px 0 12px 100px;
   padding: .5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
   display: inline-block;
